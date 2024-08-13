@@ -52,7 +52,6 @@ Copy code
 git clone https://github.com/yourusername/movies-app.git
 cd movies-app
 Install dependencies:
-
 bash
 Copy code
 npm install
